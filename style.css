@@ -93,6 +93,7 @@ h2:after { /*Desplays after h2*/
 
 nav {
     margin-top: 27px;
+    margin-bottom: 20px;
 }
 
 .logo {
@@ -273,4 +274,16 @@ h3 {
 .card {
     padding: 0;
     margin: 20px 20px;
+}
+
+/* FOOTER */
+.section-footer {
+    padding: 0;
+}
+
+.footer-text {
+    text-align: center;
+    font: 77.77%;
+    color: #656565;
+    margin: 10px 0;
 }
