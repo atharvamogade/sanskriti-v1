@@ -253,3 +253,24 @@ h3 {
     height: auto;
     margin-top: 10px;
 }
+
+/* Product */
+.product-card-title {
+    color: #FF8A00;
+    font-size: 150%;
+}
+
+.product-card-body {
+    padding: 10px;
+}
+
+.product-card-text {
+    color: #555;
+    font-size: 77%;
+    text-align: justify;
+}
+
+.card {
+    padding: 0;
+    margin: 20px 20px;
+}
